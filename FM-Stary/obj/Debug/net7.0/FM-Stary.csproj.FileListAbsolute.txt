@@ -1,0 +1,14 @@
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\bin\Debug\net7.0\FM-Stary.exe
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\bin\Debug\net7.0\FM-Stary.deps.json
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\bin\Debug\net7.0\FM-Stary.runtimeconfig.json
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\bin\Debug\net7.0\FM-Stary.dll
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\bin\Debug\net7.0\FM-Stary.pdb
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.AssemblyInfoInputs.cache
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.AssemblyInfo.cs
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.csproj.CoreCompileInputs.cache
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.dll
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\refint\FM-Stary.dll
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.pdb
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\FM-Stary.genruntimeconfig.cache
+C:\Users\stary\OneDrive\Dokumenty\GitHub\FM-Star-\FM-Stary\obj\Debug\net7.0\ref\FM-Stary.dll
